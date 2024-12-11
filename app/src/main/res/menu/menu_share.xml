@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- menu_share.xml -->
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_share_email"
+        android:title="Share via Email" />
+    <item
+        android:id="@+id/action_share_sms"
+        android:title="Share via SMS" />
+</menu>

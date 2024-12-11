@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_add_item"
+        android:title="Add Item" />
+    <item
+        android:id="@+id/action_save_list"
+        android:title="Save List"
+        android:visible="false"
+        />
+    <item
+        android:id="@+id/action_delete_list"
+        android:title="Delete List" />
+    <item
+        android:id="@+id/action_filter_list"
+        android:title="Filter List" />
+    <item
+        android:id="@+id/action_share_list"
+        android:title="Share List" />
+    <!-- Add more options as needed -->
+</menu>

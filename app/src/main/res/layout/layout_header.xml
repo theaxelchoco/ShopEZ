@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- layout_header.xml -->
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/black"
+    android:padding="16dp">
+
+    <!-- Add your header elements here, e.g., logo, title, buttons, etc. -->
+    <!-- Example: A TextView to display the title -->
+    <TextView
+        android:id="@+id/textViewHeaderTitle"
+        android:layout_width="133dp"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:fontFamily="@font/modernsanslight"
+        android:text="ShopEZ"
+        android:textColor="@color/white"
+        android:textSize="28sp"
+        android:textStyle="bold|italic" />
+
+    <!-- Add any other elements you want to include in the header -->
+
+</RelativeLayout>

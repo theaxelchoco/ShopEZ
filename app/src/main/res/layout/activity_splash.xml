@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- activity_splash.xml -->
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/black">
+
+    <!-- Add your logo ImageView here -->
+    <!-- Replace with your logo drawable resource -->
+
+
+    <ImageView
+        android:id="@+id/imageViewLogo"
+        android:layout_width="313dp"
+        android:layout_height="471dp"
+        android:layout_centerInParent="true"
+        android:src="@drawable/logo"
+
+        />
+
+    <TextView
+        android:layout_width="173dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginStart="162dp"
+        android:layout_marginTop="456dp"
+        android:layout_marginEnd="76dp"
+        android:layout_marginBottom="213dp"
+        android:text="ShopEZ"
+        android:textColor="@color/white"
+        android:textSize="40sp"
+        android:textStyle="bold|italic" />
+
+</RelativeLayout>

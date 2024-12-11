@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.GroceryListApplication" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorButtonNormal">@color/custom_black</item>
+    </style>
+
+    <style name="Theme.GroceryListApplication" parent="Base.Theme.GroceryListApplication" />
+
+</resources>
