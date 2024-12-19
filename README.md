@@ -1,9 +1,18 @@
-# CSCI 4176: ShopEZ
-We created a mobile app to aid local students with their monthly grocery trips.
+# ShopEZ  
+*Your go-to app for streamlining grocery shopping for students!*  
 
-# Authors
-- Axel Wale-James
-- Ronil Patel
-- Amaan
-- Ana Hernandez
-- Anuj Dawar
+ShopEZ is a mobile application designed to assist local students in managing their monthly grocery trips efficiently. By combining user-friendly features with thoughtful design, ShopEZ simplifies the shopping experience, saving time and effort for students balancing busy schedules.  
+
+## Tech Stack  
+- **Platform**: Android 
+- **Languages**: Kotlin 
+- **Backend**: Firebase
+- **Tools**: Android Studio
+
+## Authors  
+- Axel Wale-James  
+- Ronil Patel  
+- Amaan  
+- Ana Hernandez  
+- Anuj Dawar  
+
