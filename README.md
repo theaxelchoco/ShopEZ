@@ -1,5 +1,4 @@
 # ShopEZ  
-*Your go-to app for streamlining grocery shopping for students!*  
 
 ShopEZ is a mobile application designed to assist local students in managing their monthly grocery trips efficiently. By combining user-friendly features with thoughtful design, ShopEZ simplifies the shopping experience, saving time and effort for students balancing busy schedules.  
 
